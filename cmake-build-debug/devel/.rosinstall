@@ -1,0 +1,2 @@
+- setup-file:
+    local-name: /home/wdjie/Documents/my_project/agv_tcpip_driver-master/cmake-build-debug/devel/setup.sh
